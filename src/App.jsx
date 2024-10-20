@@ -6,7 +6,7 @@ import Div from './components/Div'
 import Imagem from './components/Imagem'
 import Link from './components/Link'
 import Lista from './components/Lista'
-import Paragrafo from './components/paragrafo'
+import Paragrafo from './components/Paragrafo'
 import Saudacao from './components/Saudacao'
 import Titulo from './components/Titulo'
 
